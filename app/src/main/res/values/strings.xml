@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExceptionCatcher</string>
+    <string name="handled_exception">Handled exception</string>
+    <string name="unhandled_exception">Unhandled Exception</string>
+    <string name="error_message">"Something went wrong.\nWe have informed our team about this problem.\nTerribly sorry for your inconvenience."</string>
+    <string name="content_desc_error">Sad doggo</string>
+    <string name="back_to_home">"Go back to home screen"</string>
+</resources>
